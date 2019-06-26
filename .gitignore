@@ -1,1 +1,5 @@
-.env
+**/.env
+.vscode
+**/node_modules
+
+#https://git-scm.com/docs/gitignore
